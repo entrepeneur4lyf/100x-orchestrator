@@ -1,6 +1,6 @@
 flask==2.0.1
 Werkzeug==2.0
-litellm==1.52.16
+litellm==1.61.15
 python-dotenv==1.0.1
 # Note: Install aider using 'pipx install aider-chat'
 gitpython>=3.1.40
